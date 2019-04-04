@@ -2,7 +2,7 @@ Matplotlib Plots
 
 ###### "Pyber" ride share company
 
-Using Matplotlib, pandas, and more to create data-backed guidance on new opportunities for market differentiation.
+Using Matplotlib and pandas to create data-backed guidance on new opportunities for market differentiation.
 
 Using a fictitious company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
