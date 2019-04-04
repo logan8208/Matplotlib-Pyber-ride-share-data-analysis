@@ -1,6 +1,6 @@
 Matplotlib Plots
 
-### "Pyber" ride share company
+###### "Pyber" ride share company
 
 Using Matplotlib, pandas, and more to create data-backed guidance on new opportunities for market differentiation.
 
